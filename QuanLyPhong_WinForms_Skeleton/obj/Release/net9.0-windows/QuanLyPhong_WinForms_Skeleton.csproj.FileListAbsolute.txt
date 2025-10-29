@@ -1,0 +1,5 @@
+C:\Users\Trung Hieu\Desktop\QuanLyPhong_WinForms_Skeleton\QuanLyPhong_WinForms_Skeleton\obj\Release\net9.0-windows\QuanLyPhong_WinForms_Skeleton.csproj.AssemblyReference.cache
+C:\Users\Trung Hieu\Desktop\QuanLyPhong_WinForms_Skeleton\QuanLyPhong_WinForms_Skeleton\obj\Release\net9.0-windows\QuanLyPhong_WinForms_Skeleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trung Hieu\Desktop\QuanLyPhong_WinForms_Skeleton\QuanLyPhong_WinForms_Skeleton\obj\Release\net9.0-windows\QuanLyPhong_WinForms_Skeleton.AssemblyInfoInputs.cache
+C:\Users\Trung Hieu\Desktop\QuanLyPhong_WinForms_Skeleton\QuanLyPhong_WinForms_Skeleton\obj\Release\net9.0-windows\QuanLyPhong_WinForms_Skeleton.AssemblyInfo.cs
+C:\Users\Trung Hieu\Desktop\QuanLyPhong_WinForms_Skeleton\QuanLyPhong_WinForms_Skeleton\obj\Release\net9.0-windows\QuanLyPhong_WinForms_Skeleton.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin\\Release\\net9.0-windows",
+    "\\Data",
+    "\\Forms",
+    "\\Models",
+    "\\obj\\Debug",
+    "\\Reports\\templates",
+    "\\Security",
+    "\\Services"
+  ],
+  "SelectedNode": "\\README_DEV_GUIDE.md",
+  "PreviewInSolutionExplorer": false
+}
